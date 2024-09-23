@@ -1,0 +1,1 @@
+# DesignPattern_DotnetCoreCentral1
